@@ -1,10 +1,13 @@
 # KaseiCoin-Crowdsale
-Creating a python ledger to store and view transactions
+
+create a fungible token that is ERC-20 compliant and that will be minted by using a Crowdsale contract from the OpenZeppelin Solidity library.
+
+The crowdsale contract that you create will manage the entire crowdsale process, allowing users to send ether to the contract and in return receive KASI, or KaseiCoin tokens. Your contract will mint the tokens automatically and distribute them to buyers in one transaction.
 ---
 
 ## Technologies
 
-This program was created using Python and Streamlit
+This program was created using Solidity and Remix ethereum
 
 ---
 

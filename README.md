@@ -13,7 +13,7 @@ This program was created using Solidity and Remix ethereum
 
 ## Installation Guide
 
-git clone https://github.com/chance2424/Trasaction_Records_Blockchain.git
+git clone https://github.com/chance2424/KaseiCoin-Crowdsale.git
 
 ---
 
